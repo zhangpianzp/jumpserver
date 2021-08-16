@@ -1711,7 +1711,7 @@ msgstr "CAS"
 #: authentication/templates/authentication/login.html:220
 #: notifications/backends/__init__.py:16
 msgid "FeiShu"
-msgstr ""
+msgstr "飞书"
 
 #: authentication/templates/authentication/login_otp.html:17
 msgid "One-time password"
